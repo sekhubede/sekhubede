@@ -4,18 +4,18 @@ I'm Michael Sekhubede, a passionate software developer based in Namibia, on a pe
 
 ```csharp
 while (alive)
+{
+    Coding();
+    Debugging();
+    Testing();
+    if (FeelingStuck())
     {
-        Coding();
-        Debugging();
-        Testing();
-        if (FeelingStuck())
-        {
-            TakeABreak();
-            continue;
-        }
-        Documenting();
-        Celebrating();
+        TakeABreak();
+        continue;
     }
+    Documenting();
+    Celebrating();
+}
 ```
 
 🚀 Quick Stats
