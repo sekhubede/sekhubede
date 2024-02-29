@@ -3,12 +3,19 @@
 I'm Michael Sekhubede, a passionate software developer based in Namibia, on a perpetual journey of learning and creating.
 
 ```csharp
-while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
+while (alive)
+    {
+        Coding();
+        Debugging();
+        Testing();
+        if (FeelingStuck())
+        {
+            TakeABreak();
+            continue;
+        }
+        Documenting();
+        Celebrating();
+    }
 ```
 
 🚀 Quick Stats
