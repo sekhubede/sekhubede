@@ -14,15 +14,15 @@ while(alive) {
 🚀 Quick Stats
 
 💼 Skills & Tools
-Languages: C#, VBScript
-Frameworks: .NET Framework, .NET Core
-Databases: SQL Server
-Tools: Git, Visual Studio
+- Languages: C#, VBScript
+- Frameworks: .NET Framework, .NET Core
+- Databases: SQL Server
+- Tools: Git, Visual Studio
 
 📫 Connect with Me
-LinkedIn: [Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede/)
-Twitter: @sekhubede
-Email: msekhubede@gmail.com
+- LinkedIn: [Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede/)
+- Twitter: @sekhubede
+- Email: msekhubede@gmail.com
 
 Let's create something awesome together!
 
