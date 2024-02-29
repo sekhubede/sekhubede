@@ -9,6 +9,7 @@ while(alive) {
     code();
     repeat();
 }
+```
 
 🚀 Quick Stats
 
