@@ -19,7 +19,7 @@ Databases: SQL Server
 Tools: Git, Visual Studio
 
 📫 Connect with Me
-LinkedIn: <a href="https://www.linkedin.com/in/michael-sekhubede/" target="_blank">Michael Sekhubede</a>
+LinkedIn: [Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede/)
 Twitter: @sekhubede
 Email: msekhubede@gmail.com
 
