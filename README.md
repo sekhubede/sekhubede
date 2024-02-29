@@ -1,5 +1,28 @@
-### Hi there 👋
+# Hello, World! 👋
 
-I'm Michael, a software developer from Namibia. while(alive) { eat(); sleep(); code(); repeat(); }.
+I'm Michael Sekhubede, a passionate software developer based in Namibia, on a perpetual journey of learning and creating.
+
+```csharp
+while(alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+
+🚀 Quick Stats
+
+💼 Skills & Tools
+Languages: C#, VBScript
+Frameworks: .NET Framework, .NET Core
+Databases: SQL Server
+Tools: Git, Visual Studio
+
+📫 Connect with Me
+LinkedIn: <a href="https://www.linkedin.com/in/michael-sekhubede/" target="_blank">Michael Sekhubede</a>
+Twitter: @sekhubede
+Email: msekhubede@gmail.com
+
+Let's create something awesome together!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekhubede)](https://github.com/anuraghazra/github-readme-stats)
