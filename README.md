@@ -12,7 +12,6 @@ I'm Michael Sekhubede, a passionate software developer based in Namibia, on a pe
 
 📫 Connect with Me
 - LinkedIn: [Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede/)
-- Twitter: @sekhubede
 - Email: msekhubede@gmail.com
 
 Let's create something awesome together!
