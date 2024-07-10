@@ -1,14 +1,14 @@
 # Hello, World! 👋
 
-I'm Michael Sekhubede, a passionate software developer based in Namibia, on a perpetual journey of learning and creating.
+I'm Michael Sekhubede, a passionate software developer, and sketch artist based in Namibia, on a perpetual journey of learning and creating.
 
 🚀 Quick Stats
 
 💼 Skills & Tools
-- Languages: C#, VBScript
+- Languages: C#, VBScript, HTML, CSS
 - Frameworks: .NET Framework, .NET Core
 - Databases: SQL Server
-- Tools: Git, Visual Studio
+- Tools: Git, Visual Studio, VSCode
 
 📫 Connect with Me
 - LinkedIn: [Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede/)
