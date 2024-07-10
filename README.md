@@ -1,33 +1,35 @@
-# Hello, 🗺! 👋
+**About Me**
 
 I'm Michael Sekhubede, a passionate software developer and sketch artist based in Namibia, on a perpetual journey of learning and creating. Currently, I'm focused on building innovative solutions using the latest technologies and enhancing my artistic skills.
 
-🚀 Quick Stats
+🚀 **Quick Stats**
 
-💼 Skills & Tools
+**💼 Skills & Tools**
 
-Languages:
+**Languages**: 
+- C#
+- VBScript
+- HTML
+- CSS
 
-C#
-VBScript
-HTML
-CSS
-Frameworks:
+**Frameworks**:
+- .NET Framework
+- .NET Core
 
-.NET Framework
-.NET Core
-Databases:
+**Databases**:
+- SQL Server
 
-SQL Server
-Tools:
+**Tools**:
+- Git
+- Visual Studio
+- VSCode
 
-Git
-Visual Studio
-VSCode
-📫 Connect with Me
+📫 **Connect with Me**
 
-LinkedIn: Michael Sekhubede
-Email: msekhubede@gmail.com
+- [LinkedIn: Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede)
+- Email: msekhubede@gmail.com
+
 Let's create something awesome together!
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekhubede)](https://github.com/anuraghazra/github-readme-stats)
