@@ -29,6 +29,9 @@ I'm Michael Sekhubede, a passionate software developer and sketch artist based i
 - [LinkedIn: Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede)
 - Email: msekhubede@gmail.com
 
+🎭 **Drawings**
+- [My Drawings](https://msekhubede.wordpress.com/)
+
 Let's create something awesome together!
 
 
