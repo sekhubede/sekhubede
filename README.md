@@ -1,6 +1,6 @@
 **About Me**
 
-I'm Michael Sekhubede, a passionate software developer and sketch artist based in Namibia, on a perpetual journey of learning and creating. Currently, I'm focused on building innovative solutions using the latest technologies and enhancing my artistic skills.
+I'm Michael Sekhubede, a software developer and sketch artist based in Namibia.
 
 🚀 **Quick Stats**
 
