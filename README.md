@@ -26,11 +26,11 @@ I'm Michael Sekhubede, a software developer and sketch artist based in Namibia.
 
 📫 **Connect with Me**
 
-- [LinkedIn: Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede)
+- LinkedIn: [Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede)
 - Email: msekhubede@gmail.com
 
 🎭 **Drawings**
-- [Website: Drawings](https://msekhubede.wordpress.com/)
+- Website: [Drawings](https://msekhubede.wordpress.com/)
 
 Let's create something awesome together!
 
