@@ -30,7 +30,7 @@ I'm Michael Sekhubede, a software developer and sketch artist based in Namibia.
 - Email: msekhubede@gmail.com
 
 🎭 **Drawings**
-- [My Drawings](https://msekhubede.wordpress.com/)
+- [Website: Drawings](https://msekhubede.wordpress.com/)
 
 Let's create something awesome together!
 
