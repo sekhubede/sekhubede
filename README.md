@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekhubede&show_icons=true&theme=transparent)
 **About Me**
 
 I'm Michael Sekhubede, a passionate software developer and sketch artist based in Namibia, on a perpetual journey of learning and creating. Currently, I'm focused on building innovative solutions using the latest technologies and enhancing my artistic skills.
