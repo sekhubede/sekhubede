@@ -13,11 +13,10 @@ I'm Michael Sekhubede, a software developer and sketch artist based in Namibia.
 - CSS
 
 **Frameworks**:
-- .NET Framework
-- .NET Core
+- .NET
 
 **Databases**:
-- SQL Server
+- MSSQL Server
 
 **Tools**:
 - Git
@@ -29,11 +28,6 @@ I'm Michael Sekhubede, a software developer and sketch artist based in Namibia.
 - LinkedIn: [Michael Sekhubede](https://www.linkedin.com/in/michael-sekhubede)
 - Email: msekhubede@gmail.com
 
-🎭 **Drawings**
-- Website: [Drawings](https://msekhubede.wordpress.com/)
-
 Let's create something awesome together!
-
-
 
 ![Sekhubede's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekhubede&show_icons=true&theme=transparent)
