@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-I thrive on crafting impactful software solutions and constantly leveling up my skills in the ever-evolving tech world. Currently, I’m diving deeper into web development with **JavaScript** and **React** while sharpening my problem-solving skills on **CodeWars**. 🚀  
+I thrive on crafting impactful software solutions and constantly leveling up my skills in the ever-evolving tech world. Currently, I’m diving deeper into web development with **React** while sharpening my problem-solving skills on **CodeWars**. 🚀  
 
 Let’s build something awesome together!  
 
@@ -17,9 +17,9 @@ Let’s build something awesome together!
 ---
 
 ## 🎯 Current Focus  
-- Learning **JavaScript** and transitioning into **React**  
+- Mastering **React** as my primary framework for web development
 - Solving **CodeWars** challenges to improve algorithmic thinking  
-- Building full-stack projects with **.NET**  
+- Building full-stack projects with **.NET** and **React**
 
 ---
 
@@ -33,6 +33,7 @@ Let’s build something awesome together!
 - ![VBScript](https://img.shields.io/badge/-VBScript-007ACC?logo=microsoft&logoColor=white&style=flat)  
 
 ### **Frameworks & Libraries**  
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 - ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)  
 
 ### **Databases**  
