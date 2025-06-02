@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-I thrive on crafting impactful software solutions and constantly leveling up my skills in the ever-evolving tech world. Currently, I’m diving deeper into web development with **React** while sharpening my problem-solving skills on **CodeWars**. 🚀  
+Crafting impactful software solutions and constantly leveling up my skills in the ever-evolving tech world. Currently, I’m diving deeper into web development with **React** while sharpening my problem-solving skills on **CodeWars**. 🚀  
 
 Let’s build something awesome together!  
 
