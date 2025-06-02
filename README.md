@@ -17,7 +17,7 @@ Let’s build something awesome together!
 ---
 
 ## 🎯 Current Focus  
-- Mastering **React** as my primary framework for web development
+- Learning **React** as my primary framework for web development
 - Solving **CodeWars** challenges to improve algorithmic thinking  
 - Building full-stack projects with **.NET** and **React**
 
