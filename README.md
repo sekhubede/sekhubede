@@ -1,5 +1,5 @@
 # Hi, I'm **Michael Sekhubede** 👋  
-**Passionate Software Developer** | Based in **Namibia**
+**Software Developer** | Based in **Namibia**
 
 ---
 
