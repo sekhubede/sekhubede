@@ -59,3 +59,10 @@ I’m passionate about problem-solving and algorithm mastery.
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:msekhubede@gmail.com)  
 
 ---
+
+## 🧩 Code Quality & Coverage
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL&metric=coverage)](https://sonarcloud.io/summary/new_code?id=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=The-Document-Warehouse-Namibia_Windows-Service-for-RSSQL)
