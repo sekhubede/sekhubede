@@ -1,12 +1,13 @@
 # Hi, I'm **Michael Sekhubede** 👋  
-**Software Developer** | Based in **Namibia**
+**Software Developer | Full-Stack Engineer** | Based in **Namibia**
 
 ---
 
 ## 🧑‍💻 About Me  
-Crafting impactful software solutions and constantly leveling up my skills in the ever-evolving tech world. Currently, I’m diving deeper into web development with **React** while sharpening my problem-solving skills on **CodeWars**. 🚀  
+Solution-driven developer crafting real-world systems that bridge backend logic with intuitive user experiences.  
+I specialize in **.NET** and **React**, using modern engineering practices like **CI/CD**, **code quality automation**, and **structured problem-solving** to build reliable, scalable solutions.  
 
-Let’s build something awesome together!  
+Currently focused on leveling up my **front-end architecture** and **AI-assisted tooling**, while continuously improving code quality through **SonarCloud** integration and automated testing workflows.
 
 ---
 
@@ -16,41 +17,69 @@ Let’s build something awesome together!
 
 ---
 
-## 🎯 Current Focus  
-- Learning **React** as my primary framework for web development
-- Solving **CodeWars** challenges to improve algorithmic thinking  
-- Building full-stack projects with **.NET** and **React**
+## ⚙️ Engineering Workflow  
+I believe in building like a professional from the ground up — clean architecture, tested code, automated pipelines, and measurable quality.
+
+- 🧪 **CI with GitHub Actions** → Automates build and test runs  
+- 🧠 **SonarCloud Integration** → Tracks maintainability, code smells, and coverage  
+- 🚀 **Upcoming CD** → Planning automatic deployments with **Taskify (React)**  
+- 🧩 **Focus** → Applying enterprise-grade patterns to personal and team projects
 
 ---
 
-## 💻 Skills & Tools  
+## 🎯 Current Focus  
+- Refining **CI/CD** workflows across personal projects  
+- Building **Taskify** (React + .NET API) with automated deployment  
+- Enhancing **problem-solving skills** via daily **CodeWars** challenges  
+- Applying AI integration patterns in **.NET** (local, privacy-first models)
 
-### **Languages**  
-- ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-- ![VBScript](https://img.shields.io/badge/-VBScript-007ACC?logo=microsoft&logoColor=white&style=flat)  
+---
 
-### **Frameworks & Libraries**  
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-- ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)  
+## 💻 Tech Stack  
 
-### **Databases**  
-- ![MSSQL Server](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)  
+### 🧠 **Languages**
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![VBScript](https://img.shields.io/badge/-VBScript-007ACC?logo=microsoft&logoColor=white&style=flat)
 
-### **Tools**  
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat)  
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)  
+### ⚙️ **Frameworks & Libraries**
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+
+### 🗄️ **Databases**
+![SQL Server](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat)
+
+### 🧰 **Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
+![SonarCloud](https://img.shields.io/badge/-SonarCloud-F3702A?logo=sonarcloud&logoColor=white&style=flat)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+
+---
+
+## 🧩 Projects & Highlights  
+
+### 🗂️ **Taskify**
+> A React-powered task management system backed by a .NET API — designed to demonstrate modern full-stack architecture with CI/CD pipelines.  
+**Status:** CI implemented (build + test + SonarCloud). CD to be added soon.
+
+### ⚙️ **SmartMock**
+> A .NET tool for generating test data and automating dummy object creation — supports integration testing for internal systems.
+
+### 🧠 **RSQuery**
+> Lightweight query interface connecting a Windows Service backend to a browser-based frontend — exploring internal web app deployment models.
 
 ---
 
 ## 🏆 CodeWars  
-I’m passionate about problem-solving and algorithm mastery.  
+I sharpen my algorithmic thinking through daily challenges.  
 
 ![CodeWars Badge](https://www.codewars.com/users/sekhubede/badges/small)  
-[View My Profile on CodeWars](https://www.codewars.com/users/sekhubede)  
+[View My Profile on CodeWars](https://www.codewars.com/users/sekhubede)
 
 ---
 
@@ -59,3 +88,6 @@ I’m passionate about problem-solving and algorithm mastery.
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:msekhubede@gmail.com)  
 
 ---
+
+> *“Don’t chase frameworks — solve problems. Tools evolve, systems endure.”*  
+> — **Michael Sekhubede**
