@@ -1,5 +1,5 @@
 # Hi, I'm **Michael Sekhubede** 👋  
-**Software Developer | Full-Stack Engineer** | Based in **Namibia**
+**Full-Stack Software Engineer** | Based in **Namibia**
 
 ---
 
